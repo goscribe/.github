@@ -1,4 +1,4 @@
-## Hi there 👋
+## The pre-Scribed tool for learning ✏️
 The AI learning companion that fights for understanding. Scribe transforms source materials into an interactive, connected learning system—mind maps, flashcards, audio—designed to combat superficial AI-assisted learning and build true, lasting knowledge.
 
 <!--
