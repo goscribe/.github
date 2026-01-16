@@ -1,7 +1,3 @@
-## Video
-
-Watch the short walkthrough: [Scribe demo](https://www.youtube.com/watch?v=NXYvrOpZhiU&t=16s)
-
 ![Scribe banner](../images/banner.png)
 
 Scribe is an AI-powered learning and revision workspace that turns source materials into structured study tools.
